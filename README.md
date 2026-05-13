@@ -49,4 +49,4 @@ End-to-end ping between PC1 and PC2 across both subnets — **Successful**
 - Protocols: ICMP, CDP, STP PortFast
 
 ## Author
-**nanahubert30** — BSc Computer Technology, KTU | CCNA in progress
+**nanahubert30** — BCT Computer Technology, KATH | CCNA in progress
